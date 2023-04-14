@@ -11,7 +11,6 @@ import ProductsDetail from './Page/ProductsDetail'
 import Login from './Page/Login'
 import Purchases from './Page/Purchases'
 import { useSelector } from 'react-redux'
-import { Link } from 'react-router-dom'
 
 
 function App() {
