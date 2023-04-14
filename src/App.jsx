@@ -5,7 +5,7 @@ import {
     Route
   } from 'react-router-dom'
   
-import NavBar from './Components/NavBar'
+import NavBar from './Components/Navbar'
 import Home from './Page/Home'
 import ProductsDetail from './Page/ProductsDetail'
 import Login from './Page/Login'
